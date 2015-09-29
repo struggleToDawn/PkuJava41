@@ -1,5 +1,5 @@
 # PkuJava41
 work for java team
-teamer weishijia 
+teamleader weishijia 
 member renjianxin
 
