@@ -24,7 +24,7 @@ public class Solution {
         if(size%2==1)
            stack.pop();
         //依次将链表的后半段与栈
-        while(head.next!=null){
+        while(head!=null){
             if(head.val!=stack.pop()){
                 return false;
             }
