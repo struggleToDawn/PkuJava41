@@ -20,3 +20,6 @@ work for java team <br>
 第六次作业   <br>
 魏世嘉  worldCount已完成  <br>
 任建新  worldCount已完成  <br>
+第七次作业   <br>
+魏世嘉  26，217，121，171，231五道都已完成  <br>
+任建新  26，217，121，171，231五道都已完成  <br>
