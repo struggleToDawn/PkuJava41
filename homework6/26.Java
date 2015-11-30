@@ -19,7 +19,7 @@ public class Solution {
          nums[i-repeat]=nums[i];
      }
 
-      return nums.llength-repeat;
+      return nums.length-repeat;
 
         
     }
